@@ -1,9 +1,11 @@
 body {
     background-color: powderblue;
 }
-p.horizontal {
-  style="width:500px;height:375px;"
+.horizontal{
+  width:500px;
+  height:375px;
 }
-p.portrait {
-  style="width:500px;height:666.656px;"
+.portrait{
+  width:500px;
+  height:666.656px;
 }
