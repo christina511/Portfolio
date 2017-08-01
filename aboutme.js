@@ -6,5 +6,5 @@ function myFunction() {
     } else {
         txt = "Hello " + person + "! How are you today? Nice to meet you!";
     }
-    document.getElementById("demo").innerHTML = txt;
+    document.getElementById("name").innerHTML = txt;
 }
